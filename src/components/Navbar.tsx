@@ -37,7 +37,7 @@ export default function Navbar() {
             className="text-xl sm:text-2xl font-bold tracking-tight"
           >
             <span className="bg-gradient-to-r from-amber-400 via-orange-400 to-red-500 bg-clip-text text-transparent">
-              [Your Name]
+              Roshan
             </span>
             <span className="text-white/40 font-light"> .edit</span>
           </a>

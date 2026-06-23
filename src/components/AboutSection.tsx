@@ -60,7 +60,7 @@ export default function AboutSection() {
             </div>
 
             <p className="text-zinc-400 leading-relaxed">
-              Hi, I'm <span className="text-white font-medium">[Your Name]</span> — a
+              Hi, I'm <span className="text-white font-medium">Roshan</span> — a
               professional video editor with <span className="text-white font-medium">8+ years</span> of
               experience turning raw footage into compelling visual stories.
             </p>

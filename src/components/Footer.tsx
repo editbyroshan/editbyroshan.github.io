@@ -10,7 +10,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
             <span className="text-lg font-bold bg-gradient-to-r from-amber-400 via-orange-400 to-red-500 bg-clip-text text-transparent">
-              [Your Name]
+              Roshan
             </span>
             <p className="text-zinc-500 text-sm mt-2 leading-relaxed">
               Professional video editing services for creators, brands, and
@@ -88,7 +88,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-white/5 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-zinc-600 text-xs">
-            © {currentYear} [Your Name]. All rights reserved.
+            © {currentYear} Roshan. All rights reserved.
           </p>
           <p className="text-zinc-600 text-xs flex items-center gap-1">
             Crafted with <Heart size={10} className="text-red-500/60" /> for

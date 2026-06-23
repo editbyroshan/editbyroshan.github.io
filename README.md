@@ -25,11 +25,11 @@ A premium, cinematic portfolio website for professional video editors — built 
 ## 🚀 Day 1: Launch Checklist
 
 ### Step 1: Replace Placeholder Content
-Search for `[Your Name]` and `[yourhandle]` throughout the code and replace with YOUR details:
+Search for `Roshan` and `[yourhandle]` throughout the code and replace with YOUR details:
 
 | What to Replace | Where | Example |
 |----------------|-------|---------|
-| `[Your Name]` | Navbar, Hero, About, Footer, index.html | "Raj Sharma" |
+| `Roshan` | Navbar, Hero, About, Footer, index.html | "Raj Sharma" |
 | `yourusername` | index.html (canonical URL, OG tags) | "rajedit" |
 | `hello@yourname.com` | Contact section | "raj@example.com" |
 | `+91 98765 43210` | Contact section (WhatsApp) | "+91 9876543210" |
@@ -244,7 +244,7 @@ Here's my portfolio: [your link]
 Would you be open to a 10-minute call to discuss?
 
 Best,
-[Your Name]
+Roshan
 ```
 
 ---
@@ -280,7 +280,7 @@ Study these for inspiration:
 
 ```
 Day 1 Morning:
-☐ Replace all [Your Name] and placeholder content
+☐ Replace all Roshan and placeholder content
 ☐ Add 3-5 of your best video projects
 ☐ Add your photo
 ☐ Write real testimonials (ask 3 past clients)
